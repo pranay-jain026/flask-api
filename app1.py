@@ -12,8 +12,7 @@ def get_db_connection():
         'DRIVER={ODBC Driver 17 for SQL Server};'
         'SERVER=208.91.198.196;'
         'DATABASE=positd2y_pranay;'
-        'UID=sa_pranay_gpe;'
-        'PWD=Vbsd62?26@Positron'
+        ''
     )
     return conn
 
